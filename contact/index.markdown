@@ -20,7 +20,7 @@ The mailing list is our primary means of communication.
 
 ## IRC
 
-Find us at [#ve3uow](irc://chat.freenode.net/ve3uow) on [Freenode](https://freenode.net/) ([Webchat](http://webchat.freenode.net/?channels=%23uwarc)).
+Find us at [#ve3uow](irc://chat.freenode.net/ve3uow) on [Freenode](https://freenode.net/) ([Webchat](http://webchat.freenode.net/?channels=%23ve3uow)).
 
 ## Twitter
 
